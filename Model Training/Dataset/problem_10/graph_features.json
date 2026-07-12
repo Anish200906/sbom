@@ -1,0 +1,5210 @@
+{
+  "micrometer-core:3.0.10": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "sqlalchemy:5.13.5": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "netty-all:2.7.4": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "json-iterator:2.3.2": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "log4j-api:5.1.3": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "commons-collections4:4.7.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "commons-codec:4.11.10": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "gson:1.6.10": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "lombok:4.1.2": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "werkzeug:1.7.10": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "jackson-annotations:5.0.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "resilience4j:1.8.0": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "slf4j-api:2.8.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "go-jwt:5.10.5": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "spring-security-core:1.2.0": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "snakeyaml:3.1.0": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 3.904968682151169e-06,
+    "indegree": 1,
+    "outdegree": 3
+  },
+  "opentelemetry-api:4.10.2": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "logback-core:3.4.2": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "pyyaml:5.7.10": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 3.904968682151169e-06,
+    "indegree": 1,
+    "outdegree": 3
+  },
+  "jackson-databind:1.1.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "caffeine:2.5.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "log4j-core:2.2.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "grpc-core:2.1.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "jedis:3.9.3": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "jetty-server:2.3.0": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "commons-lang3:4.11.2": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "mockito-core:1.2.10": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "junit-jupiter:4.1.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "hibernate-validator:1.13.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "guava:1.2.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "h2-database:5.3.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "mapstruct:4.15.0": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "kafka-clients:4.8.5": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "mysql-connector-java:4.2.3": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "sarama:5.0.2": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 3.904968682151169e-06,
+    "indegree": 1,
+    "outdegree": 3
+  },
+  "tomcat-embed-core:2.7.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "fabric:3.0.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "commons-io:2.4.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "spring-core:2.9.0": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "assertj-core:3.6.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "jackson-core:4.9.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "hibernate-core:3.4.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "disruptor:2.2.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "spring-web:2.11.0": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "logback-classic:4.11.0": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "eslint:2.10.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "aws-sdk-s3:2.4.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "crypto-go:3.10.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "httpcore:3.4.4": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "netty-handler:1.7.3": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "caffeine:4.4.5": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "aws-sdk-s3:2.0.9": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "resilience4j:5.1.10": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "snakeyaml:3.15.2": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "vue:3.3.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "httpcore:5.15.3": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "logback-core:4.9.4": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "grpc-core:3.11.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "httpclient:4.14.4": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "guava:1.5.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "aws-sdk-sqs:2.15.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "redis-py:4.11.10": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "jedis:2.15.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "spring-boot-starter:4.7.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "spring-web:4.0.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "hibernate-validator:4.10.5": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "assertj-core:2.0.5": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "jackson-core:4.3.4": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "netty-all:5.4.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "tomcat-embed-core:5.10.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "postgresql-jdbc:2.13.9": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "slf4j-api:2.5.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "micrometer-core:5.9.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "mapstruct:2.9.10": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "golangci-lint:4.3.9": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "hibernate-core:3.1.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "jackson-databind:2.11.9": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 3.904968682151169e-06,
+    "indegree": 1,
+    "outdegree": 3
+  },
+  "kafka-clients:1.10.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "log4j-api:5.11.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "psycopg2:1.11.3": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "commons-collections4:3.14.3": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "junit-jupiter:5.9.0": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "jetty-server:2.10.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "mysql-connector-java:1.6.8": {
+    "pagerank": 0.0009450613092616499,
+    "betweenness": 5.206624909534892e-06,
+    "indegree": 2,
+    "outdegree": 2
+  },
+  "bouncycastle-bcprov:2.8.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "h2-database:1.12.0": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "jackson-annotations:3.9.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "testify:2.2.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "morgan:3.0.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "protobuf-java:3.3.5": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "disruptor:2.3.4": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "commons-lang3:4.10.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "commons-codec:3.5.2": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "logback-classic:3.7.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "lombok:3.12.5": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "log4j-core:4.4.5": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "spring-core:3.7.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "aiohttp:2.4.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "netty-handler:4.12.3": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "bandit:3.6.3": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "requests:4.15.9": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "pip:2.4.2": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "twisted:2.5.2": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "setuptools:2.12.9": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 3.904968682151169e-06,
+    "indegree": 1,
+    "outdegree": 3
+  },
+  "numpy:5.8.2": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "aws-sdk-s3:5.13.2": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "junit-jupiter:4.13.5": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "black:3.15.3": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "psycopg2:1.3.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "pydantic:5.8.4": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "log4j-api:2.3.3": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "paramiko:1.2.4": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "markupsafe:2.15.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "pandas:5.5.10": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "bandit:1.2.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "cryptography:4.12.9": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "sqlalchemy:5.8.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "redis-py:2.10.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "pyyaml:2.15.5": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "node-fetch:2.11.2": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "httpx:4.5.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "coverage:2.14.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "zap:2.8.3": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "fastapi:5.4.9": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "mocha:2.10.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "jinja2:3.15.10": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "python-dateutil:5.6.9": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "flask:5.9.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "wheel:2.10.3": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "certifi:2.0.2": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "botocore:4.1.0": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "rich:4.9.3": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "ansible-core:3.10.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "pyjwt:5.13.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "fabric:5.4.5": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "colly:3.9.3": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "click:4.6.3": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "celery:2.8.4": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "uvicorn:2.2.4": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "safety:4.3.5": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "idna:2.1.4": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "boto3:2.5.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "django:1.4.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "werkzeug:1.1.3": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "urllib3:2.7.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "scikit-learn:3.7.4": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "gunicorn:3.0.2": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "go-redis:4.11.2": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "pytest:1.5.2": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "pillow:3.12.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "coverage:5.12.10": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "morgan:4.11.0": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 3.904968682151169e-06,
+    "indegree": 1,
+    "outdegree": 3
+  },
+  "sqlalchemy:5.13.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "paramiko:5.10.10": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 3.904968682151169e-06,
+    "indegree": 1,
+    "outdegree": 3
+  },
+  "gunicorn:3.11.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "numpy:1.9.3": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "pytest:2.8.5": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "python-dateutil:2.15.9": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "cors:4.13.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "django:2.10.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "mypy:2.4.5": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "boto3:4.6.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "httpx:3.6.5": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "scipy:1.3.0": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "moment:2.6.3": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "fastapi:5.1.4": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "twisted:3.11.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "pyjwt:5.2.2": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 3.904968682151169e-06,
+    "indegree": 1,
+    "outdegree": 3
+  },
+  "uuid:1.8.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "formidable:4.4.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "pyyaml:5.10.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "idna:2.10.2": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "bandit:1.8.9": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "ansible-core:3.5.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 3.904968682151169e-06,
+    "indegree": 1,
+    "outdegree": 3
+  },
+  "urllib3:4.12.0": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "aiohttp:2.12.0": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "pandas:5.4.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 3.904968682151169e-06,
+    "indegree": 1,
+    "outdegree": 3
+  },
+  "cryptography:2.14.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "pydantic:4.11.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "caffeine:2.4.2": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "markupsafe:2.0.9": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "typescript:4.13.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "hibernate-validator:1.4.0": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 3.904968682151169e-06,
+    "indegree": 1,
+    "outdegree": 3
+  },
+  "botocore:1.13.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "safety:1.2.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "flask:4.7.2": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "pillow:1.0.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "rich:4.0.5": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "charset-normalizer:3.4.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "requests:3.6.0": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "bcrypt:1.10.2": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "click:1.8.4": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "hibernate-core:3.12.5": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "celery:2.9.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "psycopg2:3.6.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "six:2.8.4": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "scikit-learn:4.8.2": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "setuptools:2.12.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "uvicorn:4.6.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "matplotlib:1.5.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "moment:1.14.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "formidable:5.8.5": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "cheerio:3.15.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "bcrypt:1.9.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "mocha:4.10.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "nanoid:3.12.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "winston:1.4.10": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "sequelize:3.2.9": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "commander:2.13.9": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "dotenv:4.4.4": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "setuptools:5.13.9": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "babel-core:5.15.3": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "node-fetch:2.8.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 3.904968682151169e-06,
+    "indegree": 1,
+    "outdegree": 3
+  },
+  "morgan:5.10.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "multer:5.0.4": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "mongoose:1.3.9": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "nodemon:2.15.2": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 3.904968682151169e-06,
+    "indegree": 1,
+    "outdegree": 3
+  },
+  "eslint:1.8.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "next:4.15.4": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 3.904968682151169e-06,
+    "indegree": 1,
+    "outdegree": 3
+  },
+  "cors:5.12.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "knex:1.0.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 6.508281136918615e-07,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "chalk:1.0.9": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "vue:1.5.4": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.9524843410755843e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "react:4.12.5": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 3.904968682151169e-06,
+    "indegree": 1,
+    "outdegree": 3
+  },
+  "typescript:4.8.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "puppeteer:1.12.4": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "inquirer:1.12.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "passport:1.11.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "apollo-server:5.1.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "react-dom:5.7.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 3.904968682151169e-06,
+    "indegree": 1,
+    "outdegree": 3
+  },
+  "angular-core:5.4.9": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 3.904968682151169e-06,
+    "indegree": 1,
+    "outdegree": 3
+  },
+  "jest:5.2.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "hibernate-validator:5.4.5": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "spring-boot-starter:2.11.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "yargs:1.0.0": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "postgresql-jdbc:4.6.3": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "micrometer-core:1.10.4": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "helmet:1.9.5": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "protobuf-java:2.4.0": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "prettier:4.2.2": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "axios:4.0.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "graphql:1.3.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "bull:3.3.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "sharp:1.6.2": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "express:3.4.3": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "echo:4.6.2": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "testify:2.9.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "webpack:4.4.0": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "dayjs:2.9.0": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "zap:4.6.3": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "protobuf-go:4.9.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "sarama:4.2.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "pyjwt:2.0.4": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "moment:3.15.9": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "testify:2.11.4": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 3.2541405684593075e-06,
+    "indegree": 1,
+    "outdegree": 3
+  },
+  "crypto-go:5.1.10": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "python-dateutil:2.14.5": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "mux:4.10.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "logrus:5.6.9": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.9524843410755843e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "gorm:5.1.10": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "go-jwt:5.2.3": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "aws-sdk-go:1.12.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "viper:2.6.2": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "resty:1.4.4": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "gson:4.2.9": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 3.904968682151169e-06,
+    "indegree": 1,
+    "outdegree": 3
+  },
+  "spring-core:2.1.4": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "yaml-go:1.5.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "fiber:1.4.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "gin:5.3.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "json-iterator:3.5.4": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "numpy:4.3.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "golangci-lint:5.1.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "pgx:1.2.2": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "aiohttp:2.9.2": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "go-redis:4.6.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "bcrypt-go:3.1.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "fasthttp:2.2.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "chi:2.2.5": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "uuid-go:5.12.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "nats:1.3.0": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "yargs:1.2.10": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "tomcat-embed-core:1.1.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "colly:2.9.2": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "sqlx:2.1.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "react-dom:3.6.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "paramiko:3.9.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "cors:1.7.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "nats:1.5.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "commons-lang3:2.5.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "jedis:2.7.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "go-jwt:4.12.3": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "inquirer:3.1.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "logback-classic:4.10.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "uvicorn:2.0.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "bouncycastle-bcprov:3.10.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "coverage:3.7.2": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "pyjwt:4.5.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "uuid:4.3.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "mapstruct:4.7.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "pillow:4.7.4": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "viper:5.1.10": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "boto3:5.7.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "logback-classic:2.14.10": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "mypy:3.2.5": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "certifi:3.2.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "twisted:3.9.3": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "markupsafe:1.7.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "requests:1.13.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "scikit-learn:4.6.9": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "python-dateutil:4.2.0": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "werkzeug:2.15.5": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "spring-core:3.12.10": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "redis-py:1.10.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "wheel:4.5.5": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "safety:1.7.2": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "paramiko:3.15.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "helmet:4.2.3": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "pandas:1.2.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "pyjwt:5.4.3": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 6.508281136918615e-07,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "urllib3:4.2.0": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "cryptography:3.4.5": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 6.508281136918615e-07,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "psycopg2:3.5.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "bandit:5.2.4": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "matplotlib:5.2.0": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "rich:2.5.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "cobra:5.8.10": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "ansible-core:4.9.9": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "pip:1.0.3": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "snakeyaml:2.14.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "six:4.15.9": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "redis:4.10.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 3.904968682151169e-06,
+    "indegree": 1,
+    "outdegree": 3
+  },
+  "celery:5.7.9": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "setuptools:4.11.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "coverage:1.13.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "charset-normalizer:1.5.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "pytest:3.12.0": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "numpy:1.11.0": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "botocore:1.8.0": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "scipy:2.11.4": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "httpx:3.2.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "bouncycastle-bcprov:3.4.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "aiohttp:2.2.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "gunicorn:3.0.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "click:4.12.2": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "pydantic:3.6.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "uvicorn:1.4.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "pyyaml:4.11.5": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "black:3.6.2": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "jinja2:2.0.0": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "aws-sdk-s3:4.14.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "mockito-core:5.11.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "guava:3.9.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "mysql-connector-java:2.15.0": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "tomcat-embed-core:5.4.2": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "lettuce-core:4.10.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "jedis:1.6.9": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "postgresql-jdbc:3.6.3": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "spring-security-core:4.0.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "mocha:2.9.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "commons-collections4:1.10.2": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "commander:5.7.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "boto3:1.8.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "logback-classic:3.5.3": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 3.904968682151169e-06,
+    "indegree": 1,
+    "outdegree": 3
+  },
+  "hibernate-core:3.6.9": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "bouncycastle-bcprov:2.8.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "log4j-api:4.8.3": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "h2-database:4.15.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "spring-boot-starter:3.12.2": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "netty-handler:3.6.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 3.904968682151169e-06,
+    "indegree": 1,
+    "outdegree": 3
+  },
+  "commons-codec:1.4.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "spring-web:1.8.10": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "junit-jupiter:3.13.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "grpc-core:4.6.5": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 3.904968682151169e-06,
+    "indegree": 1,
+    "outdegree": 3
+  },
+  "commons-io:4.0.9": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 3.904968682151169e-06,
+    "indegree": 1,
+    "outdegree": 3
+  },
+  "graphql:1.12.5": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "jackson-databind:4.2.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "micrometer-core:3.0.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "slf4j-api:3.11.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "commons-lang3:5.13.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "pgx:5.4.0": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 3.904968682151169e-06,
+    "indegree": 1,
+    "outdegree": 3
+  },
+  "kafka-clients:3.9.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "hibernate-validator:2.7.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "jackson-annotations:3.0.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 3.904968682151169e-06,
+    "indegree": 1,
+    "outdegree": 3
+  },
+  "logback-core:1.5.4": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "axios:3.12.5": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "setuptools:1.1.2": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "httpclient:3.9.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "resilience4j:2.8.4": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "jetty-server:2.8.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "opentelemetry-api:1.2.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "numpy:3.11.5": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "caffeine:1.3.3": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "httpcore:2.5.4": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "gson:1.7.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "mapstruct:4.5.4": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "log4j-core:3.1.4": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "aws-sdk-sqs:2.1.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "disruptor:2.11.2": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "netty-all:3.5.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "react-dom:1.10.9": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "yaml-go:5.15.0": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "jest:3.13.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 3.904968682151169e-06,
+    "indegree": 1,
+    "outdegree": 3
+  },
+  "cryptography:3.6.0": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "redis:5.1.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "next:2.13.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "ansible-core:2.8.10": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 3.904968682151169e-06,
+    "indegree": 1,
+    "outdegree": 3
+  },
+  "sharp:1.14.0": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "axios:4.14.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "winston:2.2.10": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "babel-core:5.0.0": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "chalk:3.6.10": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "twisted:5.3.5": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "nanoid:2.3.5": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "inquirer:5.11.0": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "mocha:3.5.10": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "vue:5.14.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "puppeteer:1.9.3": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "postgresql-jdbc:2.12.3": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "socket.io:5.13.10": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "sequelize:2.12.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "dayjs:2.4.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "chai:2.7.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "graphql:1.11.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "commander:3.12.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "morgan:4.11.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "django:3.15.10": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "multer:2.8.9": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "uuid:5.6.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "lodash:2.12.4": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "webpack:4.13.10": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "helmet:2.6.0": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 3.904968682151169e-06,
+    "indegree": 1,
+    "outdegree": 3
+  },
+  "knex:1.7.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "express:5.0.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "passport:2.11.10": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "node-fetch:4.11.2": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "moment:4.10.3": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "cors:1.10.5": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "react:2.9.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "mapstruct:1.11.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "formidable:1.2.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "pm2:2.7.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "prettier:1.1.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "dotenv:3.3.4": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "nodemon:4.1.5": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "eslint:4.11.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "jsonwebtoken:3.1.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "angular-core:3.2.5": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "bcrypt:2.6.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "nats:2.1.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "pgx:3.4.3": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "protobuf-go:2.12.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 3.904968682151169e-06,
+    "indegree": 1,
+    "outdegree": 3
+  },
+  "rich:1.7.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "logrus:3.14.5": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "fiber:5.15.4": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "golangci-lint:4.0.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "chi:1.5.9": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "mockito-core:2.6.10": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "setuptools:1.9.10": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "graphql:2.1.3": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "nats:3.12.10": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "jackson-annotations:3.5.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "sqlx:5.13.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "resty:4.3.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "aws-sdk-go:1.5.5": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "gomock:5.4.10": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 3.904968682151169e-06,
+    "indegree": 1,
+    "outdegree": 3
+  },
+  "gin:3.2.4": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 3.904968682151169e-06,
+    "indegree": 1,
+    "outdegree": 3
+  },
+  "caffeine:4.0.9": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "werkzeug:5.1.9": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "go-redis:5.11.0": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "grpc-go:2.9.10": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "cobra:3.5.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "echo:3.7.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "colly:4.14.2": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "zap:2.12.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 3.904968682151169e-06,
+    "indegree": 1,
+    "outdegree": 3
+  },
+  "yaml-go:1.4.2": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "crypto-go:3.9.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "fasthttp:1.8.3": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "viper:3.6.2": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "bcrypt-go:4.15.0": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "json-iterator:2.9.7": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "gorm:2.10.5": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 1.301656227383723e-06,
+    "indegree": 1,
+    "outdegree": 1
+  },
+  "go-jwt:1.6.3": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 2.603312454767446e-06,
+    "indegree": 1,
+    "outdegree": 2
+  },
+  "mux:5.11.5": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 3.904968682151169e-06,
+    "indegree": 1,
+    "outdegree": 3
+  },
+  "uuid-go:4.2.2": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "chalk:1.12.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "vue:1.2.3": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "hibernate-validator:2.4.0": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "tomcat-embed-core:3.5.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "pip:3.5.0": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "chi:1.11.6": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "commons-codec:2.7.3": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "certifi:2.7.3": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "bcrypt:2.2.3": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "crypto-go:4.10.3": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "protobuf-java:4.1.8": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "mux:4.0.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "bouncycastle-bcprov:3.2.0": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "chai:3.11.1": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "nodemon:2.3.0": {
+    "pagerank": 0.0009295119978764483,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "tomcat-embed-core:2.4.0": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "assertj-core:2.1.1": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "disruptor:3.1.0": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "eslint:3.4.1": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "jackson-core:2.2.2": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "hibernate-core:3.2.0": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "httpcore:2.2.1": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "logback-classic:2.7.4": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "jackson-core:4.9.0": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "aws-sdk-s3:3.4.2": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "eslint:2.2.5": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "httpcore:2.6.2": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "commons-io:3.7.0": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "eslint:3.3.1": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "fabric:1.5.2": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "hibernate-core:1.7.4": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "eslint:2.9.3": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "disruptor:3.1.5": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "netty-handler:4.2.2": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "httpcore:4.8.5": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "spring-web:4.9.1": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "commons-io:2.3.1": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "logback-classic:4.1.3": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "netty-handler:2.2.4": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "netty-handler:3.3.0": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "eslint:2.2.2": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "fabric:4.5.2": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "spring-web:2.1.2": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "crypto-go:4.2.4": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "aws-sdk-s3:3.7.4": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "spring-core:4.10.0": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "assertj-core:1.3.2": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "lombok:2.6.0": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "commons-lang3:3.2.0": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "log4j-core:2.1.4": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "commons-codec:1.1.2": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "disruptor:1.1.0": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "commons-lang3:1.2.5": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "disruptor:1.10.5": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "log4j-core:2.10.2": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "logback-classic:1.6.5": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "lombok:3.8.4": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "log4j-core:2.10.5": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "spring-core:3.7.0": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "jackson-annotations:4.0.5": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "aiohttp:1.7.3": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "commons-codec:2.9.1": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "logback-classic:2.1.3": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "disruptor:3.7.1": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "bandit:2.3.1": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "logback-classic:3.10.2": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "log4j-core:4.10.5": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "jackson-annotations:1.6.0": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "testify:4.4.4": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "netty-handler:3.2.1": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "log4j-core:3.7.4": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "logback-classic:1.1.5": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "aiohttp:1.6.2": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "morgan:2.10.3": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "testify:4.5.0": {
+    "pagerank": 0.0013158671264975469,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "h2-database:1.1.0": {
+    "pagerank": 0.0013158671264975469,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "disruptor:1.6.5": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "django:4.7.1": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "scikit-learn:2.10.3": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "uvicorn:4.7.1": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "django:2.6.4": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "urllib3:2.9.1": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "click:1.3.4": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "click:1.7.5": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "go-redis:1.6.1": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "click:2.6.5": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "boto3:4.2.2": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "werkzeug:4.4.2": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "urllib3:1.2.3": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "gunicorn:1.1.1": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "werkzeug:3.9.0": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "idna:4.6.4": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "scikit-learn:2.8.0": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "werkzeug:3.5.0": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "go-redis:4.9.0": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "django:4.1.2": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "gunicorn:3.1.4": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "uvicorn:2.3.2": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "werkzeug:4.5.4": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "colly:3.7.4": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "werkzeug:1.8.2": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "idna:3.9.2": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "go-redis:3.5.3": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "uvicorn:2.7.0": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "celery:2.6.3": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "boto3:1.5.5": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "django:4.1.3": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "urllib3:4.1.0": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "go-redis:3.9.4": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "pytest:4.6.1": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "idna:4.4.1": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "flask:4.1.3": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "charset-normalizer:1.5.4": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "celery:2.8.3": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "pillow:2.3.4": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "uvicorn:2.9.5": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "bcrypt:4.10.3": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "uvicorn:3.9.1": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "matplotlib:2.6.4": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "psycopg2:2.1.0": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "charset-normalizer:1.5.3": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "setuptools:1.5.2": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "click:3.8.0": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "flask:3.8.4": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "pillow:2.6.2": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "setuptools:2.2.3": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "matplotlib:1.1.5": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "setuptools:2.7.0": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "hibernate-core:2.3.5": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "setuptools:1.4.3": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "six:1.6.4": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "flask:1.6.5": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "scikit-learn:1.5.3": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "requests:4.2.0": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "bcrypt:3.10.2": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "hibernate-core:3.10.2": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "psycopg2:2.6.2": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "requests:2.6.1": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "scikit-learn:2.5.0": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "matplotlib:3.2.1": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "hibernate-core:2.8.4": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "click:2.3.0": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "charset-normalizer:2.7.4": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "scikit-learn:4.5.3": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "celery:1.8.0": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "requests:3.7.1": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "scikit-learn:4.6.2": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "celery:4.0.1": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "rich:4.9.5": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "click:1.2.2": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "flask:4.3.1": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "uvicorn:2.0.1": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "rich:2.7.5": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "six:3.0.0": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "requests:3.5.2": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "charset-normalizer:2.9.0": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "requests:3.2.4": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "celery:4.8.5": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "postgresql-jdbc:1.7.0": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "testify:1.5.4": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "axios:2.9.3": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "micrometer-core:4.5.4": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "express:1.7.1": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "postgresql-jdbc:1.3.1": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "axios:3.9.5": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "postgresql-jdbc:1.0.5": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "axios:3.1.2": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "bull:2.3.4": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "bull:4.2.0": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "echo:2.10.3": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "testify:3.1.4": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "micrometer-core:3.9.0": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "echo:3.8.0": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "dayjs:4.7.4": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "testify:3.0.5": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "webpack:4.9.1": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "helmet:4.6.1": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "dayjs:4.10.1": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "bull:2.9.5": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "echo:3.6.4": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "postgresql-jdbc:3.5.2": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "micrometer-core:3.1.2": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "testify:2.5.4": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "testify:3.4.1": {
+    "pagerank": 0.0020999185234457565,
+    "betweenness": 0.0,
+    "indegree": 2,
+    "outdegree": 0
+  },
+  "testify:1.1.4": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "echo:1.4.0": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "protobuf-java:2.10.3": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "express:1.2.4": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "graphql:4.3.4": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "graphql:1.8.1": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "mysql-connector-java:4.3.1": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "postgresql-jdbc:1.5.5": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "mysql-connector-java:1.6.0": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "axios:2.10.5": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "express:2.0.1": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "postgresql-jdbc:1.4.0": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "protobuf-java:4.9.1": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "dayjs:4.5.0": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "webpack:2.0.3": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "protobuf-java:2.10.2": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "inquirer:4.8.4": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "react-dom:2.1.0": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "commons-lang3:2.8.5": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "commons-lang3:3.3.3": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "cors:3.4.0": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "uuid:2.2.1": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "coverage:1.0.2": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "mapstruct:2.7.2": {
+    "pagerank": 0.0015728270403548633,
+    "betweenness": 0.0,
+    "indegree": 2,
+    "outdegree": 0
+  },
+  "mapstruct:1.6.3": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "commons-lang3:2.9.5": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "uuid:2.7.2": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "bouncycastle-bcprov:1.8.3": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "mapstruct:4.2.4": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "go-jwt:1.2.1": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "logback-classic:4.3.0": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "inquirer:2.0.0": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "uuid:1.4.1": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "paramiko:1.2.2": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "jedis:4.2.2": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "paramiko:2.10.1": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "uuid:2.8.4": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "cors:4.9.4": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "commons-lang3:2.3.1": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "mapstruct:2.9.1": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "uvicorn:2.10.2": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "uvicorn:1.1.4": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "nats:1.8.1": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "inquirer:2.7.5": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "jedis:1.2.2": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "logback-classic:1.1.1": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "commons-lang3:3.10.3": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "pyjwt:3.7.5": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "commons-lang3:3.8.4": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "bouncycastle-bcprov:4.7.4": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "react-dom:1.2.2": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "pydantic:3.10.0": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "aiohttp:4.5.5": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "jinja2:4.1.1": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "pydantic:2.10.3": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "jinja2:2.0.3": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "pydantic:3.7.3": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "bouncycastle-bcprov:2.4.1": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "scipy:2.1.2": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "charset-normalizer:3.3.4": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "scipy:4.3.2": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "uvicorn:3.1.0": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "click:1.0.2": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "jinja2:3.7.1": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "jinja2:3.4.4": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "bouncycastle-bcprov:3.8.2": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "aiohttp:1.3.1": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "numpy:2.8.2": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "black:2.9.0": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "click:1.5.1": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "charset-normalizer:4.5.5": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "click:4.1.3": {
+    "pagerank": 0.002495237135763926,
+    "betweenness": 0.0,
+    "indegree": 2,
+    "outdegree": 0
+  },
+  "numpy:4.8.5": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "scipy:2.8.3": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "httpx:1.8.0": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "scipy:1.10.3": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "aiohttp:3.5.1": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "click:2.2.0": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "uvicorn:4.10.5": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "gunicorn:1.4.3": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "botocore:2.7.3": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "click:4.3.5": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "httpx:4.0.1": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "aiohttp:3.3.3": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "uvicorn:3.7.1": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "numpy:2.3.1": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "numpy:2.8.0": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "log4j-core:1.3.3": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "netty-all:3.4.1": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "netty-all:3.6.3": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "aws-sdk-sqs:4.6.1": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "gson:3.8.5": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "mapstruct:1.10.4": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "axios:1.10.4": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "gson:1.7.0": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "setuptools:4.0.3": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "numpy:4.1.5": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "gson:2.0.0": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "jetty-server:4.4.4": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "mapstruct:3.10.3": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "axios:4.0.0": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "setuptools:3.6.4": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "resilience4j:1.4.5": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "axios:2.0.1": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "jetty-server:4.1.2": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "caffeine:4.2.4": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "resilience4j:3.6.4": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "axios:4.5.0": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "netty-all:2.5.2": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "resilience4j:1.10.5": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "disruptor:1.0.3": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "disruptor:2.1.4": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "axios:4.1.5": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "opentelemetry-api:4.9.0": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "resilience4j:1.7.3": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "disruptor:4.6.4": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "disruptor:2.9.1": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "gson:3.4.2": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "mapstruct:1.5.1": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "resilience4j:4.7.4": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "aws-sdk-sqs:3.9.4": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "log4j-core:2.7.4": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "opentelemetry-api:2.3.2": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "axios:2.3.2": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "disruptor:2.5.4": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "netty-all:1.5.1": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "moment:4.0.2": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "bcrypt:2.4.3": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "react:4.2.4": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "cors:3.9.1": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "nodemon:4.7.3": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "bcrypt:2.6.1": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "pm2:1.5.0": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "angular-core:1.8.2": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "dotenv:4.7.1": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "pm2:1.4.0": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "node-fetch:2.5.5": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "cors:1.9.0": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "bcrypt:2.4.0": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "dotenv:4.0.5": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "react:1.6.5": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "prettier:2.1.5": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "angular-core:2.4.0": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "bcrypt:3.10.5": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "prettier:3.2.5": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "angular-core:1.6.3": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "prettier:1.4.4": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "react:2.0.0": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "cors:3.7.3": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "nodemon:2.3.3": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "nats:3.10.5": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "node-fetch:1.10.5": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "moment:4.6.5": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "nodemon:4.1.0": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "mapstruct:3.2.2": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "dotenv:1.7.4": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "moment:2.1.2": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "bcrypt:1.6.0": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "eslint:3.1.2": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "angular-core:1.1.1": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "formidable:3.10.2": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "vue:3.9.3": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "bcrypt:2.10.5": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "protobuf-java:4.3.0": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "bouncycastle-bcprov:4.10.3": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "nodemon:2.0.4": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "pip:2.1.2": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "crypto-go:1.8.1": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "chai:1.3.5": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "chi:2.6.5": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "bcrypt:2.1.5": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "pip:2.9.3": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "vue:3.10.5": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "mux:3.8.2": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "nodemon:4.7.4": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "mux:4.7.1": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "bouncycastle-bcprov:4.5.3": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "tomcat-embed-core:3.4.3": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "hibernate-validator:1.4.4": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "crypto-go:4.0.3": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "chalk:2.7.3": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "chai:1.4.2": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "bouncycastle-bcprov:4.4.2": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "crypto-go:4.5.2": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "nodemon:4.0.1": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "vue:4.10.5": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "commons-codec:2.5.3": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "certifi:4.2.0": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "chi:4.9.5": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "tomcat-embed-core:2.3.0": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "protobuf-java:2.3.2": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "tomcat-embed-core:1.2.0": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "chi:1.0.5": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "vue:1.10.0": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "tomcat-embed-core:4.1.0": {
+    "pagerank": 0.0017045999111275866,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "bouncycastle-bcprov:2.0.1": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "tomcat-embed-core:2.6.4": {
+    "pagerank": 0.0013092812988094165,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "bcrypt:2.9.2": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "bouncycastle-bcprov:2.4.0": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  },
+  "chalk:1.3.5": {
+    "pagerank": 0.0011775084280366932,
+    "betweenness": 0.0,
+    "indegree": 1,
+    "outdegree": 0
+  }
+}
